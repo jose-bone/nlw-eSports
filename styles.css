@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(./.github/BackgroundCover.jpg);
+  background-position: top center;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-color: #121214;
+}
+
+body * {
+  font-family: "Inter", sans-serif;
+  line-height: 160%;
+}
+
+main {
+  max-width: 36.25rem;
+  width: 90%;
+  margin: auto;
+
+  display: grid;
+  gap: 1.5rem;
+
+  margin-top: 2rem;
+}
+
+section {
+  color: #fff;
+  background-image: linear-gradient(
+    90deg,
+    #9572fc 0%,
+    #43e7ad 50.52%,
+    #e2d45c 100%
+  );
+  padding-top: 0.25rem;
+  border-radius: 0.625rem;
+}
+
+section div {
+  background-color: #2a2634;
+  padding: 2rem;
+  padding-top: 1.5rem;
+  border-radius: 0.5rem;
+}
+
+section h2 {
+  letter-spacing: -0.029375rem;
+}
+
+section p {
+  letter-spacing: -0.01125rem;
+  color: #a1a1aa;
+}
+
+section ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+
+  margin-top: 1.5rem;
+}
+
+.games-list img {
+  width: 5.625rem;
+  border-radius: 0.5rem;
+}
+
+.channel-list img {
+  width: 4.375rem;
+  border-radius: 50%;
+}
