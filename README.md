@@ -5,7 +5,7 @@
 
 &#xa0;
 
-<a href="">Deploy</a>
+<a href="https://nlw-e-sports-five.vercel.app" target="_blank">Deploy</a>
 
 </div>
 
