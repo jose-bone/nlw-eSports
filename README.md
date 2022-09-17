@@ -1,11 +1,12 @@
 <h1 align="center">NLW eSports</h1>
 
 <div align="center" id="top">
-  <img src="./.github/NLWeSportsCover.png" alt="NLW eSports" />
+  <img src="./.github/Preview.png" alt="NLW eSports" />
 
 &#xa0;
 
-  <!-- <a href="https://{{app_url}}.netlify.app">Deploy</a> -->
+<a href="">Deploy</a>
+
 </div>
 
 <p align="center">
@@ -23,12 +24,6 @@
 
   <img alt="Github stars" src="https://img.shields.io/github/stars/jose-bone/nlw-eSports?color=7E22CE" />
 </p>
-
-Status
-
-<h4 align="center">
- 🚧  NLW eSports 🚀 Under construction...  🚧
-</h4>
 
 <hr>
 
@@ -53,7 +48,6 @@ The following technologies were used in this project:
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-<!-- - [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) -->
 
 ## :white_check_mark: Requirements
 
